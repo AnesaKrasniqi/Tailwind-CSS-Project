@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components{
+    .stars{
+        @apply justify-center text-text-color text-2xl font-bold;
+    }
+} */
